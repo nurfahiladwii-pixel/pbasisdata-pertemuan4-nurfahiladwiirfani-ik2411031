@@ -10,7 +10,7 @@ Praktikum ini bertujuan untuk memahami penggunaan struktur perulangan dalam data
 | Keterangan | Isi |
 |------------|-----|
 | Nama | [Nur fahila dwi irfani] |
-| NIM | [Nik2411031] |
+| NIM | [IK2411031] |
 | Mata Kuliah | Basis Data |
 
 
@@ -23,9 +23,6 @@ praktikum-4-loop-sql/
 │
 ├── README.md
 ├── latihan praktikum 4 loop.sql
-├── screenshots/
-├── laporan/
-└── assets/
 ```
 
 ---
