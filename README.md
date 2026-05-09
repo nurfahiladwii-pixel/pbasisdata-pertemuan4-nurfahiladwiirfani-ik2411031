@@ -9,11 +9,10 @@ Praktikum ini bertujuan untuk memahami penggunaan struktur perulangan dalam data
 
 | Keterangan | Isi |
 |------------|-----|
-| Nama | [Nama Anda] |
-| NIM | [NIM Anda] |
-| Kelas | [Kelas Anda] |
+| Nama | [Nur fahila dwi irfani] |
+| NIM | [Nik2411031] |
 | Mata Kuliah | Basis Data |
-| Dosen Pengampu | Pak Malik |
+
 
 ---
 
